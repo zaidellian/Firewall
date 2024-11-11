@@ -1,1 +1,1 @@
-# Firewall
+This Python code acts as a simple "firewall" that checks each network packet to see if it matches certain IP addresses or ports that we want to block. If a packet comes from or is going to a blocked IP address, or if it uses a blocked port, it will print a message saying it’s "blocked."
